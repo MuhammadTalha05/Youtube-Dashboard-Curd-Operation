@@ -1,0 +1,6 @@
+.flexGrid{
+    display: flex;
+    flex-direction: row !important;
+    flex-wrap: wrap;
+    gap: 20px;
+}

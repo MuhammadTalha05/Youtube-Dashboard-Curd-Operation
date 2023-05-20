@@ -1,0 +1,28 @@
+.wraper{
+    position: relative;
+}
+.delete{
+    position: absolute;
+    right: 10px;
+    top:5px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+    border-radius: 15px;
+    padding-inline: 10px;
+    padding-block: 5px;
+}
+
+.edit{
+    position: absolute;
+    right: 65px;
+    top:5px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+    border-radius: 15px;
+    padding-inline: 10px;
+    padding-block: 5px;
+}
